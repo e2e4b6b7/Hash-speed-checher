@@ -1,1 +1,1 @@
-# Hash-speed-checher
+# Hash-speed-checker
